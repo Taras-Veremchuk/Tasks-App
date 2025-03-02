@@ -81,14 +81,14 @@
 			isa = PBXGroup;
 			children = (
 				8ED8D5892D74EB51005D4214 /* Application */,
-				8ED8D54F2D74EAAF005D4214 /* StartController */,
 				8ED8D58C2D74EC04005D4214 /* Extensions */,
 				8ED8D5952D74ECDA005D4214 /* Models */,
 				8ED8D5A42D74F336005D4214 /* TaskController */,
 				8ED8D5A92D74F3B5005D4214 /* DetailController */,
-				8ED8D5422D74EAA8005D4214 /* Assets.xcassets */,
-				8ED8D5432D74EAA8005D4214 /* Info.plist */,
+				8ED8D54F2D74EAAF005D4214 /* StartController */,
 				8ED8D5452D74EAA8005D4214 /* LaunchScreen.storyboard */,
+				8ED8D5432D74EAA8005D4214 /* Info.plist */,
+				8ED8D5422D74EAA8005D4214 /* Assets.xcassets */,
 			);
 			path = "Tasks-App";
 			sourceTree = "<group>";
